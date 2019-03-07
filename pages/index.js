@@ -7,7 +7,7 @@ function Index() {
       <Header />
       <section>
         <Link href="/about">
-          <a>Test deploy Next with now</a>
+          <a>About page</a>
         </Link>
       </section>
     </main>
